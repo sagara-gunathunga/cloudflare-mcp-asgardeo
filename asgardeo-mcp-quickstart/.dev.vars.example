@@ -1,0 +1,4 @@
+ASGARDEO_CLIENT_ID=<your-app-client-id>
+ASGARDEO_CLIENT_SECRET=<your-app-client-secret>
+ASGARDEO_BASE_URL=https://api.asgardeo.io/t/<your-organization-name>'
+ASGARDEO_SCOPE=openid profile
